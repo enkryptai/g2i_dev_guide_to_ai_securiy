@@ -30,7 +30,7 @@ This repo includes the Jupyter notebook used in the live demo.
 pip install enkryptai-sdk openai python-dotenv tabulate pandas requests
 ```
 
-3. Set environment variables
+### 3. Set environment variables
 
 You’ll need both an OpenAI API key and an Enkrypt AI API key.
 
@@ -40,7 +40,7 @@ OPENAI_API_KEY=your-openai-key
 ENKRYPTAI_API_KEY=your-enkryptai-key
 ENKRYPTAI_BASE_URL=https://api.enkryptai.com
 
-4. Run the notebook
+### 4. Run the notebook
 
 Launch Jupyter Lab or Jupyter Notebook and step through the cells.
 

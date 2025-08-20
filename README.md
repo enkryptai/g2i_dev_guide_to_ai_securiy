@@ -28,6 +28,7 @@ This repo includes the Jupyter notebook used in the live demo.
 ### 2. Install dependencies
 ```bash
 pip install enkryptai-sdk openai python-dotenv tabulate pandas requests
+```
 
 3. Set environment variables
 

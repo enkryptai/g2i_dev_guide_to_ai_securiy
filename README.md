@@ -47,10 +47,10 @@ Launch Jupyter Lab or Jupyter Notebook and step through the cells.
 ⸻
 
 🌐 Useful Links
-	•	Main Website: enkryptai.com
-	•	App Dashboard (get your API key): app.enkryptai.com
-	•	Documentation: docs.enkryptai.com
-	•	Secure Chatbot Demo: securechatbot.vercel.app
+	•	Main Website: [enkryptai.com](https://enkryptai.com)
+	•	App Dashboard (get your API key): [app.enkryptai.com](https://app.enkryptai.com)
+	•	Documentation: [docs.enkryptai.com](https://docs.enkryptai.com)
+	•	Secure Chatbot Demo: [securechatbot.vercel.app](https://securechatbot.vercel.app)
 
 ⸻
 
